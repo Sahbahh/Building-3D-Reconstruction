@@ -31,11 +31,11 @@ This project focuses on 3D reconstruction using computer vision techniques. The 
 
 ## 🎯 Results
 - **Final Temple Reconstruction**:
-  ![Reconstructed Temple](relative/path/to/temple_reconstruction.png)
+  ![Reconstructed Temple](images/temple_reconstruction.png)
 - **Disparity Map**:
-  ![Disparity Map](relative/path/to/disparity_map.png)
+  ![Disparity Map](images/disparity_map.png)
 - **Depth Map**:
-  ![Depth Map](relative/path/to/depth_map.png)
+  ![Depth Map](images/depth_map.png)
 
 
 ## Challenges & Observations
