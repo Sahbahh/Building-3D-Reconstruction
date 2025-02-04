@@ -38,7 +38,7 @@ This project focuses on 3D reconstruction using computer vision techniques. The 
   ![Depth Map](images/depth_map.png)
 
 
-## Challenges & Observations
+## 🔬 Challenges & Observations
 - **Epipolar Matching Issues**: Some points in low-texture areas were difficult to match accurately.
 - **Reprojection Error**: The final re-projection error was **0.5201 pixels**, indicating high accuracy.
 - **Pose Estimation Performance**: Achieved **near-zero error** for clean data, but some deviations for noisy data.
